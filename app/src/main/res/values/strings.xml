@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Guia03</string>
+    <string name="lblTítuloMainActivity">.::Guía 03::.</string>
+    <string name="lblMisDatos">Mis Datos</string>
+    <string name="Alumno">Nombre: Jeymi Brisell Membreño Aguilar</string>
+    <string name="AlumnoCodigo">Código: MA17-I04-001</string>
+    <string name="hintNombre">Nombre</string>
+    <string name="btnVerLista">Ver Lista</string>
+    <string name="btnAgregarNombre">Agregar Nombre</string>
+    <string name="btnDatos">Mis Datos</string>
+    <string name="lblNombre">Nombre: </string>
+    <string name="btnGuardar">Guardar</string>
+</resources>
